@@ -13,18 +13,17 @@ An open source open-source framework 😏
 
 
 ## Setup
-1. Create a new github repository, let's name it `new-open-source`
-1. Sign up an account at [Travis CI](https://travis-ci.org) with your github account
-2. Got to Settings, add Travis CI service into your github repository `new-open-source`
+1. Create a new github repository, let's name it '`new-open-source`'
+2. Sign up an account at [Travis CI](https://travis-ci.org) with your github account
+3. Got to Settings, add Travis CI service into your github repository '`new-open-source`'
+  ![Add Travis CI to your github repository](https://github.com/toomuchome/open-source-template/blob/master/images/add-travis-ci.gif?raw=true)
 
-![Add Travis CI to your github repository](https://github.com/toomuchome/open-source-template/blob/master/images/add-travis-ci.gif?raw=true)
-
-3. Clone your repository using terminal because terminal is cooler than everything else
+4. Clone your repository using terminal because terminal is cooler than everything else
 ```bash
-git clone https://github.com/you/new-open-source.git
-npm install @toomuchome/open-source-template
+$ git clone https://github.com/you/new-open-source.git
+$ npm install @toomuchome/open-source-template
 ```
-4. TODO: Run a script to override the project name/ twitter account/ travis account in README.md
+5. TODO: Run a script to override the project name/ twitter account/ travis account in README.md
 
 
 ## Contributors

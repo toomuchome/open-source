@@ -6,5 +6,11 @@
     "test": "echo \"Error: no test added yet\" && exit 0"
   },
   "author": "toomuchome",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "open source",
+    "open-source",
+    "template",
+    "framework"
+  ]
 }
