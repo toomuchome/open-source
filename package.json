@@ -1,6 +1,6 @@
 {
   "name": "@toomuchome/open-source-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open source framework",
   "scripts": {
     "test": "echo \"Error: no test added yet\" && exit 0"
