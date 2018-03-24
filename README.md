@@ -17,7 +17,7 @@ An open source open-source framework 😏
 1. Sign up an account at [Travis CI](https://travis-ci.org) with your github account
 2. Got to Settings, add Travis CI service into your github repository `new-open-source`
 
-![Add Travis CI to your github repository](./images/add-travis-ci.gif)
+![Add Travis CI to your github repository](https://github.com/toomuchome/open-source-template/blob/master/images/add-travis-ci.gif?raw=true)
 
 3. Clone your repository using terminal because terminal is cooler than everything else
 ```bash
