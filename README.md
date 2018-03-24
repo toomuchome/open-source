@@ -1,4 +1,4 @@
-# open-source
+# open-source-template
 
 [![Build Status](https://travis-ci.org/toomuchome/open-source.svg?branch=master)](https://travis-ci.org/toomuchome/open-source)
 [![license](https://img.shields.io/github/license/desktop/desktop.svg?style=flat-square)](https://github.com/toomuchome/open-source/blob/master/LICENSE)
@@ -22,7 +22,7 @@ An open source open-source framework 😏
 3. Clone your repository using terminal because terminal is cooler than everything else
 ```bash
 git clone https://github.com/you/new-open-source.git
-npm install open-source
+npm install @toomuchome/open-source-template
 ```
 4. TODO: Run a script to override the project name/ twitter account/ travis account in README.md
 
